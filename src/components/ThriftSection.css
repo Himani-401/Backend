@@ -1,0 +1,42 @@
+.thrift-section {
+    display: flex;
+    align-items: center;
+    padding: 2rem;
+    gap: 2rem;
+  }
+  
+  .text-content {
+    flex: 1;
+  }
+  
+  .text-content h2 {
+    margin-bottom: 1rem;
+  }
+  
+  .text-content p {
+    margin-bottom: 1.5rem;
+    line-height: 1.6;
+  }
+  
+  .thrift-button {
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    font-size: 1rem;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 4px;
+    text-decoration: none;
+    text-align: center;
+  }
+  
+  .thrift-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .thrift-image {
+    flex: 1;
+    
+    
+  }
+  

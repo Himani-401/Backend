@@ -1,0 +1,154 @@
+
+.thrift-store {
+    font-family: 'Libre Baskerville', serif;
+    margin-top: 100px;
+    padding: 0;
+  }
+  
+  .header {
+    background-color: #333;
+    color: white;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+
+  
+  .welcome-section {
+    text-align: center;
+    padding: 20px;
+    font-size: xx-large;
+    font-family: 'Libre Baskerville', serif; 
+  }
+  
+  .shop-now-button {
+    padding: 10px 20px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 40px;
+  }
+  
+  .product-grid {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0;
+  }
+  
+  .product-card {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+    width: 30%;
+  }
+  
+  .product-card img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .cart-button{
+    padding: 8px 10px;
+    background-color: #7b857d;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+  }
+  
+ 
+  
+  .img {
+    width: 100%;
+    height: auto;
+  }
+  
+  
+  .image-text-section {
+    display: flex; 
+    align-items: flex-start;
+    padding: 40px;
+  }
+  
+  .image-container {
+    flex: 1; 
+    display: flex; 
+    justify-content: space-between;
+    margin-right: 40px; 
+  }
+  
+  .image1, .image2 {
+    max-width: 100%; 
+    height: auto; 
+    padding-right: 10px; 
+  }
+  
+  .text-container {
+    flex: 1; 
+    font-family: 'Libre Baskerville', serif; 
+    font-size: 3rem; 
+    padding-left: 20px; 
+  }
+  
+  .text-container h2 {
+    margin: 0; 
+  }
+  
+  .sub-text {
+    font-size: 1.8rem; 
+    margin-top: 10px; 
+  }
+  .sub-text2{
+    font-size: 1.5rem;
+  }
+
+  .flex {
+    display: flex;
+    justify-content: space-between; 
+    align-items: flex-start;
+    padding: 20px;
+  }
+  
+  .image-text-pair {
+    text-align: center; 
+    flex: 1; 
+    margin: 0 10px; 
+  }
+  
+  .pair-image {
+    max-width: 100%; 
+    height: auto; 
+  }
+  
+  .pair-text {
+    margin-top: 10px; 
+  }
+
+  .pink{
+    background-color: pink;
+  }
+
+  .sub-text2 {
+    
+    font-size: 0.8rem;
+    margin-top: 10px; 
+   
+  }
+
+  .image-contain {
+   
+    margin-right: 50px; 
+
+  }
+
+  .blue{
+    background-color:rgb(224,251,254);
+  }
+
+  .grey{
+    background-color: #333;
+  }
+  

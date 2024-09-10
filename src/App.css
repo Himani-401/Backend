@@ -1,0 +1,22 @@
+.app-header {
+  text-align: center;
+  padding: 2rem;
+  background-color: #f4f4f4;
+}
+
+.app-main {
+  padding: 2rem;
+}
+.app-content {
+  padding: 2rem;
+ 
+}body {
+  margin: 0;
+  font-family: "Century Gothic", 'Lato', sans-serif;
+  
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+}
